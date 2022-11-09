@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp6895676.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+    size: 100%;
+    
+}
+
+.info{
+    padding: 8%;
+    float: left;
+    color: rgb(211, 211, 211);
+}
+
+/*Miika made css for the praha page*/
+

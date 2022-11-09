@@ -1,0 +1,29 @@
+footer { /* Arttu made footer */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #212529;
+  color: white;
+  text-align: center;
+    
+    
+    
+}
+
+/*Miika made footer text css*/
+.footertext{
+  font-size: small;
+  color: #ddd;
+  background-size: cover;
+  text-align: center;
+}
+
+/*Miika made company tag to footer*/
+.INC{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+  color: #ddd;
+  text-align: right;
+  background-size: cover;
+}

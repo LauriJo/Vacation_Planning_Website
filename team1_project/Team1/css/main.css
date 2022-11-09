@@ -1,0 +1,108 @@
+/*Miika made css for header*/
+
+
+h1{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    margin: 0;
+    background-image: url(https://ourbesttrip.com/chairs-min.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+/*Lauri made css for infobox*/
+.infobox{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+footer { /* Arttu made footer */
+    margin: 0;
+    background-color: #212529;
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    width: auto;
+    bottom: 0;
+    ;
+    
+}
+
+.sidebar{
+    padding: 40px;
+}
+
+/*Lauri made dropmenu*/
+
+.dropbtn {
+    background-color: #1504aa;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+/*Lauri made dropmenu*/
+
+/*Lauri made map*/
+.map{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 75%;
+    max-width: 1200px;
+}
+/*Lauri made map*/
+
+/*Miika made footer text css*/
+.footertext{
+  font-size: small;
+  color: #ddd;
+  background-size: cover;
+  text-align: center;
+}
+
+.INC{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+  color: #ddd;
+  text-align: right;
+  background-size: cover;
+}
+

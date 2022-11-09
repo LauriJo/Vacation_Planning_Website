@@ -1,0 +1,15 @@
+
+
+.info{
+    padding: 8%;
+    float: left;
+    color: red;
+    background-image: url(https://static.saltinourhair.com/wp-content/uploads/2018/07/23151938/paris-city-trip-guide-header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+}
+
+/*Lauri made css for the paris page*/
