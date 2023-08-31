@@ -1,1 +1,1 @@
-Vacation planning webiste
+Vacation planning website
